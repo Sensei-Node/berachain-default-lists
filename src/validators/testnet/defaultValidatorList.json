@@ -1,0 +1,12 @@
+{
+  "name": "Bartio Testnet Default Validator List",
+  "validators": [
+    {
+      "id": "0x6B7C3B5c0928cf8D0B516b358a1e3aecf5E9AFBe",
+      "name": "Validator One",
+      "description": "A reliable and efficient validator.",
+      "website": "https://www.google.com",
+      "imageUri": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/infrared.jpg"
+    }
+  ]
+}

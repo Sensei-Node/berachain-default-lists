@@ -1,0 +1,173 @@
+{
+  "name": "Berachain Bartio Validator List",
+  "validators": [
+    {
+      "id": "0x3Ab20D8fC60bDEddC1195C82eFD971024E7f90f4",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/staketab.png",
+      "name": "Staketab",
+      "description": "Professional staking provider offering infrastructure solutions for the Web3 ecosystem.",
+      "website": "https://staketab.com/",
+      "twitter": "https://x.com/staketab"
+    },
+    {
+      "id": "0x72cA77Dc5ef7C251e1fc84A74DDE580c0452A3b6",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/nocturnal.jpg",
+      "name": "Nocturnal Labs",
+      "description": "Drinks for all the Beras!",
+      "website": "https://www.nocturnallabs.org/",
+      "twitter": "https://twitter.com/nct_labs"
+    },
+    {
+      "id": "0x1e2e53c2451d0f9ED4B7952991BE0c95165D5c01",
+      "logoURI": "",
+      "name": "Quantum Labs",
+      "description": "Quantum Labs staking validator for secure transactions.",
+      "website": "",
+      "twitter": ""
+    },
+    {
+      "id": "0x3bd0E8f1B1E8Ec99a4E1762F4058F9884C93af31",
+      "logoURI": "",
+      "name": "Nexa Solutions",
+      "description": "Nexa Solutions staking validator for efficient blockchain operations.",
+      "website": "",
+      "twitter": ""
+    },
+    {
+      "id": "0xD073a84e2ccDF91a9025179330438485E886D206",
+      "logoURI": "",
+      "name": "Hyperion Inc.",
+      "description": "Hyperion Inc. staking validator with top-notch security.",
+      "website": "",
+      "twitter": ""
+    },
+    {
+      "id": "0x8a88215ae882dfA519730c40109556c1C235729f",
+      "logoURI": "",
+      "name": "Vortex Dog",
+      "description": "Vortex Dog staking validator for rapid transaction validation.",
+      "website": "",
+      "twitter": ""
+    },
+    {
+      "id": "0x1a0A57e5e6a66aD732295ddAF0aed286a4e64310",
+      "logoURI": "",
+      "name": "Synapse Labs",
+      "description": "Synapse Labs staking validator for reliable and fast transactions.",
+      "website": "",
+      "twitter": ""
+    },
+    {
+      "id": "0x185F4Eebd01614aE3d12a5E49b184B054C46d37B",
+      "logoURI": "",
+      "name": "Cypher Inc.",
+      "description": "Cypher Inc. staking validator for secure and private transactions.",
+      "website": "",
+      "twitter": ""
+    },
+    {
+      "id": "0xdb96E9cDD1e457b602f97d33e51736D7a5216496",
+      "logoURI": "",
+      "name": "Aether Solutions",
+      "description": "Aether Solutions staking validator for seamless blockchain integration.",
+      "website": "",
+      "twitter": ""
+    },
+    {
+      "id": "0x44a5FBfa7d6f3Fd92cca01f6764509f8Fc33dfa5",
+      "logoURI": "",
+      "name": "Fluxion Labs",
+      "description": "Fluxion Labs staking validator for high-speed transaction processing.",
+      "website": "",
+      "twitter": ""
+    },
+    {
+      "id": "0x3649839562C8dA64E6215EB0f5371629Ead9729D",
+      "logoURI": "",
+      "name": "Zenith Inc.",
+      "description": "Zenith Inc. staking validator for maximum reliability and uptime.",
+      "website": "",
+      "twitter": ""
+    },
+    {
+      "id": "0x51e15e71c865FE702C9347610667f83658A20e00",
+      "logoURI": "",
+      "name": "Innovix Dog",
+      "description": "Innovix Dog staking validator for innovative blockchain solutions.",
+      "website": "",
+      "twitter": ""
+    },
+    {
+      "id": "0xBC9BC89b295a14F3976234Cc37C73e3D286f3a49",
+      "logoURI": "",
+      "name": "OmniCore Labs",
+      "description": "OmniCore Labs staking validator for comprehensive blockchain support.",
+      "website": "",
+      "twitter": ""
+    },
+    {
+      "id": "0x12De044207a90709Ef2602D3D9D945d64dAe6147",
+      "logoURI": "",
+      "name": "Aero Solutions",
+      "description": "Aero Solutions staking validator for lightweight and fast transactions.",
+      "website": "",
+      "twitter": ""
+    },
+    {
+      "id": "0x4Afe0DFDAcc91F0fA2AEe39F9eAd66b64d03EbD6",
+      "logoURI": "",
+      "name": "Helix Inc.",
+      "description": "Helix Inc. staking validator for robust and scalable solutions.",
+      "website": "",
+      "twitter": ""
+    },
+    {
+      "id": "0xBC3c03b4185A6F10618CC4E7B9f4AdD59AB5FbbA",
+      "logoURI": "",
+      "name": "Vertex Dog",
+      "description": "Vertex Dog staking validator for pinnacle performance.",
+      "website": "",
+      "twitter": ""
+    },
+    {
+      "id": "0xDc6De65f6070b409125217a12Cf576A208Cc1998",
+      "logoURI": "",
+      "name": "Lumina Labs",
+      "description": "Lumina Labs staking validator for bright and efficient operations.",
+      "website": "",
+      "twitter": ""
+    },
+    {
+      "id": "0xd1e53f65434838c6DCeC6c9112a30BA57E753E77",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/republic-crypto.png",
+      "name": "Republic Crypto",
+      "description": "Republic Crypto provides infrastructure for institutional staking on networks like Avalanche, Aptos and Sui with tailored services to meet your needs",
+      "website": "https://republic.com",
+      "twitter": "https://www.twitter.com/RepublicCrypto"
+    },
+    {
+      "id": "0xF60fD8632Fc77E19b3A0637d115d0fdd06F36968",
+      "logoURI": "",
+      "name": "Aether Labs",
+      "description": "Aether Labs staking validator for seamless blockchain integration.",
+      "website": "",
+      "twitter": ""
+    },
+    {
+    "id": "0x7760D27dB62acf2699ea0A58fB7D2DC0b72d4e83",
+    "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/informal-systems.png",
+    "name": "Informal Systems",
+    "description": "Informal Systems x Cephalopod Equipment - infrastructure for decentralized intelligence",
+    "website": "https://www.informal.systems",
+    "twitter": "https://x.com/informalinc"
+    },
+    {
+    "id": "0x377bcA11d71eBE440F797Af3cf2a08fd120b4e94",
+    "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/Provalidator.jpg",
+    "name": "Provalidator",
+    "description": "Supporting Blockchain Infrastructure",
+    "website": "https://provalidator.com",
+    "twitter": "https://x.com/Provalidator"
+    }
+  ]
+}
